@@ -11,7 +11,7 @@ free memorable shortlinks for wasteof.money
 - **automatic redirects**  
   requests like `user.wasteof.me` automatically redirect to `wasteof.money/users/user` (unless overwritten by custom subdomain).
 
-- **post redirects**  
+- **path redirects**  
   requests like `*.wasteof.me/posts/(postid)` will redirect to `wasteof.money/posts/(postid)`, ignoring the subdomain.
 
 - **custom subdomains**  
