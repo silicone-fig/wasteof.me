@@ -1,3 +1,5 @@
+<img src="ghbanner.png" alt="Alt text" width="500">
+
 # wasteof.me
 
 free memorable shortlinks for wasteof.money
