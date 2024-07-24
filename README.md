@@ -18,3 +18,4 @@ free memorable shortlinks for wasteof.money
   you can get a custom subdomain pointing to a specific wasteof.money link by editing `domains.yaml` and making a pull request.
 
 ---
+if you find any bugs please open an issue 🙏 thanks
