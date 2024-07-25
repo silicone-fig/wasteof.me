@@ -5,6 +5,12 @@
 free memorable shortlinks for wasteof.money
 
 ---
+### ❗❗ new!! ❗❗
+you can now register a custom subdomain [right here!!](https://wasteof.me/register) 🎉
+
+no need for a github account or opening PRs :)
+
+---
 
 ### features
 
