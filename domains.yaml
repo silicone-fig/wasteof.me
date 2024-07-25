@@ -9,6 +9,14 @@
 # for @elaruu
 - domain: el.wasteof.me
   redirect: /users/elaruu/wall
+
+# for @mybearworld
+- domain: mbw.wasteof.me
+  redirect: /mybearworld
+
+# for @cheesewhisk3rs
+- domain: meow.wasteof.me
+  redirect: /$65e2fd7df0289ca11e1826ae
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
