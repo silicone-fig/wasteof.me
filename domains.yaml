@@ -1,4 +1,5 @@
-- domain: election.wasteof.me/vote # for @esben
+# for @esben
+- domain: election.wasteof.me/vote
   redirect: /posts/669fcf25bbcf41aae3fef23d
 
 # examples:
