@@ -1,8 +1,14 @@
+# for @esben
 - domain: election.wasteof.me/vote
   redirect: /posts/669fcf25bbcf41aae3fef23d
-
+  
+# for @siliconecb_
 - domain: about.wasteof.me
   redirect: /about
+
+# for @elaruu
+- domain: el.wasteof.me
+  redirect: /users/elaruu/wall
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
