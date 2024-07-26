@@ -37,6 +37,15 @@
 # for @seether/@slate
 - domain: slate.wasteof.me
   redirect: /users/seether
+
+# for @yippymishy
+- domain: ym.wasteof.me
+  redirect: /users/yippymishy
+
+# for @yippymishy
+- domain: yippymishy.wasteof.me
+  redirect: /users/yippymishy
+
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
