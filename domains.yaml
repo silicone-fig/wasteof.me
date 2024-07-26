@@ -17,6 +17,26 @@
 # for @cheesewhisk3rs
 - domain: meow.wasteof.me
   redirect: /$65e2fd7df0289ca11e1826ae
+
+# for @impossible usernames
+- domain: 2char.wasteof.me
+  redirect: /posts/65dbbbb73dec8e4d86c43c2b
+
+# for @jamied132
+- domain: cheese.wasteof.me
+  redirect: /users/jamied132
+
+# for @jamied132
+- domain: chat.wasteof.me
+  redirect: /users/elaruu/wall
+
+# for @yay
+- domain: y.wasteof.me
+  redirect: /users/yay
+
+# for @seether/@slate
+- domain: slate.wasteof.me
+  redirect: /users/seether
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
