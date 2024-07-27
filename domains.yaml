@@ -42,10 +42,21 @@
 - domain: ym.wasteof.me
   redirect: /users/yippymishy
 
-# for @yippymishy
-- domain: yippymishy.wasteof.me
-  redirect: /users/yippymishy
+# for @jamied132
+- domain: xn--tu9h.wasteof.me
+  redirect: /users/jamied132
 
+# for @kiwi
+- domain: 15.wasteof.me
+  redirect: /posts/66690974bbcf41aae3fe8604
+
+# for @up
+- domain: xn--b5i.wasteof.me
+  redirect: /users/up
+
+# for @radi8
+- domain: r.wasteof.me
+  redirect: /users/radi8
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
