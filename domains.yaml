@@ -57,6 +57,43 @@
 # for @radi8
 - domain: r.wasteof.me
   redirect: /users/radi8
+
+# for @esben
+- domain: e.wasteof.me
+  redirect: /users/esben
+
+# for @kiwi
+- domain: k.wasteof.me
+  redirect: /users/kiwi
+
+# for @olav
+- domain: o.wasteof.me
+  redirect: /users/olav
+
+# for @esben
+- domain: d.wasteof.me
+  redirect: /users/dertermenter
+
+# for @jamied132
+- domain: xn--tu9h.wasteof.me/xn--lt8h
+  redirect: /posts/663229ac78e0ba38328742b2
+
+# for @jamied132
+- domain: xn--tu9h.wasteof.me/xn--7v9h
+  redirect: /users/jamied132/wall
+
+# for @kiwi
+- domain: xn--zr9h.wasteof.me
+  redirect: /users/kiwi
+
+# for @radi8
+- domain: 8.wasteof.me
+  redirect: /users/radi8
+
+# for @mrmeems
+- domain: meems.wasteof.me
+  redirect: /users/mrmeems
+
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
