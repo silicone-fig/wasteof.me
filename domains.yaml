@@ -38,6 +38,10 @@
 - domain: slate.wasteof.me
   redirect: /users/seether
 
+# for @yippymishy
+- domain: ym.wasteof.me
+  redirect: /users/yippymishy
+
 # for @jamied132
 - domain: xn--tu9h.wasteof.me
   redirect: /users/jamied132
