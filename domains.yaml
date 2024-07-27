@@ -82,6 +82,10 @@
 - domain: xn--tu9h.wasteof.me/xn--7v9h
   redirect: /users/jamied132/wall
 
+# for @flex
+- domain: z.wasteof.me
+  redirect: /users/sparkzii
+
 # for @kiwi
 - domain: xn--zr9h.wasteof.me
   redirect: /users/kiwi
