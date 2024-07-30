@@ -98,6 +98,22 @@
 - domain: meems.wasteof.me
   redirect: /users/mrmeems
 
+# for @slider_on_the_black
+- domain: s.wasteof.me
+  redirect: slider_on_the_black
+
+# for @kiwi
+- domain: j.wasteof.me	
+  redirect: /users/jeffalo
+
+# for @kiwi
+- domain: b.wasteof.me	
+  redirect: /users/boxboy
+
+# for @junai / @love
+- domain: j.wasteof.me	
+  redirect: /users/love	pending
+
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
