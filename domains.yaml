@@ -100,7 +100,7 @@
 
 # for @slider_on_the_black
 - domain: s.wasteof.me
-  redirect: slider_on_the_black
+  redirect: /users/slider_on_the_black
 
 # for @kiwi
 - domain: j.wasteof.me	
