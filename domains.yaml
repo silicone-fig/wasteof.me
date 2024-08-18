@@ -112,8 +112,13 @@
 
 # for @junai / @love
 - domain: j.wasteof.me	
-  redirect: /users/love	pending
+  redirect: /users/love
 
+- domain: andrew.wasteof.me
+  redirect: /users/radi8
+
+- domain: kaleb.wasteof.me
+  redirect: /users/k10398
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
