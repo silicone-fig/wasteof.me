@@ -122,9 +122,13 @@
 - domain: kaleb.wasteof.me
   redirect: /users/k10398
 
-# for me @siliconecb (test)
-- domain: example.wasteof.me
-  redirect: https://example.com/path
+# for me @siliconecb
+- domain: ios.wasteof.me/install
+  redirect: https://testflight.apple.com/join/8oJmotXd
+
+# for @esben
+- domain: elliot.wasteof.me
+  redirect: /users/esben
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
