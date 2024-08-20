@@ -114,11 +114,17 @@
 - domain: j.wasteof.me	
   redirect: /users/love
 
+# for @radi8
 - domain: andrew.wasteof.me
   redirect: /users/radi8
 
+# for @k10398
 - domain: kaleb.wasteof.me
   redirect: /users/k10398
+
+# for me @siliconecb (test)
+- domain: example.wasteof.me
+  redirect: https://example.com/path
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
