@@ -129,6 +129,22 @@
 # for @esben
 - domain: elliot.wasteof.me
   redirect: /users/esben
+
+# for @mrowlsss
+- domain: owl.wasteof.me	
+  redirect: /users/mrowlsss
+
+# for @WasteOf-Geographic
+- domain: wasgeo.wasteof.me	
+  redirect: /users/WasteOf-Geographic
+
+# for @mrowlsss
+- domain: m.wasteof.me	
+  redirect: /users/mrowlsss
+
+# for @siliconecb
+- domain: addons.wasteof.me/get	
+  redirect: https://jamied132.github.io/wasteofaddons.html
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
