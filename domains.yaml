@@ -145,6 +145,10 @@
 # for @siliconecb
 - domain: addons.wasteof.me/get	
   redirect: https://jamied132.github.io/wasteofaddons.html
+
+# for @s4il
+- domain: s4.wasteof.me
+  redirect: /users/s4il
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
