@@ -149,6 +149,26 @@
 # for @s4il
 - domain: s4.wasteof.me
   redirect: /users/s4il
+
+# for @kiwi
+- domain: 7.wasteof.me
+  redirect: /posts/6619c44978e0ba383286cd59
+
+# for @mybearworld
+- domain: earth.wasteof.me
+  redirect: /users/earthdevs
+
+# for @94
+- domain: fg.wasteof.me
+  redirect: /users/94
+
+# for @94
+- domain: f.wasteof.me
+  redirect: /users/94
+
+# for @94
+- domain: android.wasteof.me
+  redirect: https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
