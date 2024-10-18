@@ -169,6 +169,27 @@
 # for @94
 - domain: android.wasteof.me
   redirect: https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile
+
+# for @noodle 
+- domain: pineapples.wasteof.me
+  redirect: /posts/6704705a11975704ddad9169
+
+# for @noodle
+- domain: xn--3i8h.wasteof.me
+  redirect: /users/noodle
+
+# for @skylar
+- domain: sky.wasteof.me
+  redirect: /users/skylar
+
+# for @noodle
+- domain: xn--2i8h.wasteof.me
+  redirect: /users/noodle
+
+# for @siliconecb_
+- domain: docs.wasteof.me
+  redirect: https://github.com/wulliy/wasteof-docs/tree/main/api/wasteof2
+
 # examples:
 #- domain: myalias.wasteof.me
 #  redirect: /users/example
